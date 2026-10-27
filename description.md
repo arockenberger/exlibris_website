@@ -23,3 +23,5 @@ The catalogue was scanned, processed with automatic text recognition, transforme
 Cite this source:
 
 Norske Exlibris. En fortegnelse over 8650 norske exlibris. Edited by Thor Bjørn Schyberg. Exlibristen, Frederikshavn 1974. Digitised and revised by Annika Rockenberger. Oslo 2026. https://norsk-exlibris.no/.
+
+The software behind this interactive table, CSV to Table, was made by Vivek Rajendran. Read the [documentation](https://github.com/vividvilla/csvtotable) on GitHub.
